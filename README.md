@@ -18,19 +18,6 @@ A high-fidelity Tamil PDF to editable Microsoft Word (`.docx`) converter specifi
 
 ---
 
-## 🚀 Live Public Deployment on Streamlit Cloud
-
-You can deploy this repository to **Streamlit Community Cloud** for free so anyone can use it publicly on the web:
-
-1. Fork or push this repository to your GitHub account (`afeefzeed/tamil-pdf-to-word`).
-2. Go to **[share.streamlit.io](https://share.streamlit.io/)** and sign in with GitHub.
-3. Click **"New app"** and select:
-   - **Repository:** `afeefzeed/tamil-pdf-to-word`
-   - **Branch:** `main`
-   - **Main file path:** `streamlit_app.py`
-4. Click **"Deploy"**! Within 1 minute, you will have a free, live public URL accessible from any phone or computer.
-
----
 
 ## 💻 Local Installation & Usage (உள்ளூர் இயக்கம்)
 
